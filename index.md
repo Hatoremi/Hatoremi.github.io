@@ -14,13 +14,13 @@
 - Express
 
 # Works
-- [GitHub]https://github.com/Hatoremi
+- [GitHub](https://github.com/Hatoremi)
 - 作った作品
   - [作品1] for now
   - [作品2] for now
 
 # Contact
-- [Twitter]https://twitter.com/RemiHato
+- [Twitter](https://twitter.com/RemiHato)
 - メール:Hatoremi@gmail.com
 
 # History
